@@ -26,6 +26,9 @@
 (class_parameter
   name: (identifier) @definition.parameter)
 
+(lambda_expression
+  parameters: (identifier) @definition.var)
+
 (binding
   name: (identifier) @definition.var)
 
