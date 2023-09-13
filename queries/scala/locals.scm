@@ -19,7 +19,7 @@
 
 (function_definition
   name: ((identifier) @definition.function)
-  (#set! definiton.var.scope parent))
+  (#set! definition.var.scope parent))
 
 (parameter
   name: (identifier) @definition.parameter)
